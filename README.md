@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Nikhil! 👋
 
-<!--
-**TataNikhil5687/TataNikhil5687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Full-Stack Developer passionate about building scalable web applications. Currently pursuing B.Tech in Electronics & Communication Engineering at Ramachandra College of Engineering. I love solving complex problems and learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on building my project portfolio
+- 🌱 I'm learning Advanced React, Node.js, and MongoDB
+- 💬 Ask me about React, Node.js, Python, or IoT projects
+- 📫 Reach me: tata.nikhildharmasai@gmail.com
+- ⚡ Fun fact: I built my first IoT project with Arduino!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
+**Backend:** Node.js, Express.js, Python  
+**Database:** MongoDB, MySQL  
+**Tools:** Git, VS Code, Postman, Docker (learning)  
+**Other:** Arduino, NodeMCU, IoT, Cybersecurity  
+
+## 📊 GitHub Stats
+
+![Nikhil's GitHub stats](https://github-readme-stats-eight-theta.vercel.app)
+
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tatanikhil20)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tata.nikhildharmasai@gmail.com)
+
+---
+💼 Open to internships and full-time opportunities in Full-Stack Development!
