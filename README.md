@@ -11,7 +11,7 @@ I'm a Full-Stack Developer passionate about building scalable web applications. 
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
+**Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap  
 **Backend:** Node.js, Express.js, Python  
 **Database:** MongoDB, MySQL  
 **Tools:** Git, VS Code, Postman, Docker (learning)  
