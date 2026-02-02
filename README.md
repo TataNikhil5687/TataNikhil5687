@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil! 👋
+# Hi there, I'm Tata Nikhil Dharma Sai
 
 ## 🚀 About Me
 I'm a Full-Stack Developer passionate about building scalable web applications. Currently pursuing B.Tech in Electronics & Communication Engineering at Ramachandra College of Engineering. I love solving complex problems and learning new technologies.
@@ -17,9 +17,7 @@ I'm a Full-Stack Developer passionate about building scalable web applications. 
 **Tools:** Git, VS Code, Postman, Docker (learning)  
 **Other:** Arduino, NodeMCU, IoT, Cybersecurity  
 
-## 📊 GitHub Stats
 
-![Nikhil's GitHub stats](https://github-readme-stats-eight-theta.vercel.app)
 
 
 ## 🔗 Connect with Me
